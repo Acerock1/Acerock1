@@ -13,11 +13,11 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/afolabi-faj](www.linkedin.com/in/afolabi-faj)
 
-- ⚡ Fun fact **I am running a marathon in 2025**
+- ⚡ Fun fact **I plan to run a marathon in 2025**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/benjamin-asante-tannor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/benjamin-asante-tannor" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/afolabi-faj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/afolabi-faj" height="30" width="40" /></a>
 </p>
 
 
@@ -46,4 +46,4 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjamin4prod&show_icons=true&locale=en&layout=compact" alt="benjamin4prod" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acerock1&show_icons=true&locale=en&layout=compact" alt="acerock1" /></p>
