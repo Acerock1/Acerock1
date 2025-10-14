@@ -6,15 +6,14 @@
 </p>
 
 - 🔭 I’m currently working on [various cloud-based projects.](https://github.com/Cloudhaven-IDP?tab=repositories)
-- 🌱 I’m currently learning about **GenAI**
-- 💬 Ask me about **Cloud Security, Infrastructure as Code, CI/CD, Containerization**
+- 🌱 I’m currently learning about **GenAI && Agentic Software Develipment**
+- 💬 Ask me about **Cloud Security, Infrastructure as Code, CI/CD, Kubernetes**
 - 📫 How to reach me: **Afolabi.fajobi1@yahoo.com**
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/afolabi-fajobi-826615203)
-- ⚡ Fun fact: **I plan to run a marathon in 2025**
+- 📄 Learn about my experience on [LinkedIn](https://www.linkedin.com/in/afolabi-faj)
 
 ---
 
-<h3 align="center">You can also call me 😅</h3>
+<h3 align="center"> ⚡ Fun fact: You can also call me the following 😅</h3>
 
 <div align="center">
   📝 <b>JSON_Derulo</b><br/>
