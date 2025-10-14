@@ -14,9 +14,9 @@
 
 ---
 
-<h3 align="center">Nicknames & Personality</h3>
+<h3 align="center">You can call me 😅</h3>
 
-<p align="center">
+<p>
   📝 <b>JSON_Derulo</b> &nbsp;&nbsp;|&nbsp;&nbsp;
   🧪 <b>Brewer of YAML Elixirs</b>
 </p>
