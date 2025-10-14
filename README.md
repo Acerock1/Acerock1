@@ -14,10 +14,10 @@
 
 ---
 
-<h3 align="center">You can call me 😅</h3>
+<h3>You can call me 😅</h3>
 
 <p>
-  📝 <b>JSON_Derulo</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  📝 <b>JSON_Derulo</b> 
   🧪 <b>Brewer of YAML Elixirs</b>
 </p>
 
