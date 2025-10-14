@@ -16,24 +16,25 @@
 
 <h3 align="center">Nicknames & Personality</h3>
 
-<p align="center">
-  <a href="https://www.svgrepo.com/svg/154781/json-file" target="_blank">
-    <img src="https://www.svgrepo.com/show/154781/json-file.svg" alt="json" width="40" height="40"/>
-  </a>
-  <a href="https://www.svgrepo.com/svg/452214/go" target="_blank">
-    <img src="https://www.svgrepo.com/show/452214/go.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://uxwing.com/file-yaml-color-red-icon/" target="_blank">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-yaml-color-red-icon.svg" alt="yaml" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>aka:</b><br/>
-  <b>JSON_Derulo</b> — smooth with structured data<br/>
-  <b>GoHard or Go Home</b> — concurrency with swagger<br/>
-  <b>Brewer of YAML Elixirs</b> — crafting configs like potions
-</p>
+<table align="center">
+  <tr align="center">
+    <td>
+      <img src="https://www.svgrepo.com/show/14508/json-file.svg" alt="json" width="60" height="60"/><br/>
+      <b>JSON_Derulo</b><br/>
+      <sub>smooth with structured data</sub>
+    </td>
+    <td>
+      <img src="https://www.svgrepo.com/show/452214/go.svg" alt="go" width="60" height="60"/><br/>
+      <b>GoHard or Go Home</b><br/>
+      <sub>concurrency with swagger</sub>
+    </td>
+    <td>
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-yaml-color-red-icon.svg" alt="yaml" width="60" height="60"/><br/>
+      <b>Brewer of YAML Elixirs</b><br/>
+      <sub>crafting configs like potions</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
