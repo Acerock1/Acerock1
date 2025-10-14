@@ -1,25 +1,50 @@
 <h1 align="center">Hi 👋, I'm AFOLABI FAJOBI</h1>
-<h3 align="center">A certified CLOUD/DEVOPS engineer with a strong focus on automation,security,performance and scalability.</h3>
+<h3 align="center">A certified DevOps/Site Reliability Engineer with a strong focus on automation, security, performance and scalability.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamin4prod&label=Profile%20views&color=0e75b6&style=flat" alt="benjamin4prod" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=benjamin4prod&label=Profile%20views&color=0e75b6&style=flat" alt="benjamin4prod" />
+</p>
 
-- 🔭 I’m currently working on [various cloud-based projects.](https://github.com/Benjamin4prod?tab=repositories)
-
+- 🔭 I’m currently working on [various cloud-based projects.](https://github.com/Cloudhaven-IDP?tab=repositories)
 - 🌱 I’m currently learning about **GenAI**
+- 💬 Ask me about **Cloud Security, Infrastructure as Code, CI/CD, Containerization**
+- 📫 How to reach me: **Afolabi.fajobi1@yahoo.com**
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/afolabi-fajobi-826615203)
+- ⚡ Fun fact: **I plan to run a marathon in 2025**
 
-- 💬 Ask me about **Cloud Security,Infrastructure as code, CI/CD, Containerization.**
+---
 
-- 📫 How to reach me **Afolabi.fajobi1@yahoo.com**
+<h3 align="center">Nicknames & Personality</h3>
 
-- 📄 Know about my experiences [www.linkedin.com/in/afolabi-faj](www.linkedin.com/in/afolabi-faj)
+<p align="center">
+  <a href="https://www.svgrepo.com/svg/154781/json-file" target="_blank">
+    <img src="https://www.svgrepo.com/show/154781/json-file.svg" alt="json" width="40" height="40"/>
+  </a>
+  <a href="https://www.svgrepo.com/svg/452214/go" target="_blank">
+    <img src="https://www.svgrepo.com/show/452214/go.svg" alt="go" width="40" height="40"/>
+  </a>
+  <a href="https://uxwing.com/file-yaml-color-red-icon/" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-yaml-color-red-icon.svg" alt="yaml" width="40" height="40"/>
+  </a>
+</p>
 
-- ⚡ Fun fact **I plan to run a marathon in 2025**
+<p align="center">
+  <b>aka:</b><br/>
+  <b>JSON_Derulo</b> — smooth with structured data<br/>
+  <b>GoHard or Go Home</b> — concurrency with swagger<br/>
+  <b>Brewer of YAML Elixirs</b> — crafting configs like potions
+</p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/afolabi-fajobi-826615203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/afolabi-fajobi-826615203" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/afolabi-fajobi-826615203" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
 
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,8 +56,6 @@
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
 <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
@@ -46,4 +69,8 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acerock1&show_icons=true&locale=en&layout=compact" alt="acerock1" /></p>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acerock1&show_icons=true&locale=en&layout=compact" alt="acerock1" />
+</p>
