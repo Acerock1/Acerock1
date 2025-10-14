@@ -18,10 +18,8 @@
 
 <p align="center">
   📝 <b>JSON_Derulo</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="Golang--Streamline-Openmoji-Emoji.svg" alt="go" width="25" height="25"/> <b>GoHard or Go Home</b> &nbsp;&nbsp;|&nbsp;&nbsp;
   🧪 <b>Brewer of YAML Elixirs</b>
 </p>
-
 
 ---
 
