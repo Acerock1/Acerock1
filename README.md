@@ -14,12 +14,14 @@
 
 ---
 
-<h3>You can call me 😅</h3>
+<h3 align="center">You can also call me 😅</h3>
 
-<p>
- - 📝 <b>JSON_Derulo</b> 
- - 🧪 <b>Brewer of YAML Elixirs</b>
-</p>
+<div align="center">
+  📝 <b>JSON_Derulo</b><br/>
+  👨🏾‍💻 <b>GoLang or Go Home</b><br/>
+  🧪 <b>Brewer of YAML Elixirs</b>
+</div>
+
 
 ---
 
