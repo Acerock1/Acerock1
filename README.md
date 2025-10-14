@@ -16,25 +16,12 @@
 
 <h3 align="center">Nicknames & Personality</h3>
 
-<table align="center">
-  <tr align="center">
-    <td>
-      <img src="https://www.svgrepo.com/show/14508/json-file.svg" alt="json" width="60" height="60"/><br/>
-      <b>JSON_Derulo</b><br/>
-      <sub>smooth with structured data</sub>
-    </td>
-    <td>
-      <img src="https://www.svgrepo.com/show/452214/go.svg" alt="go" width="60" height="60"/><br/>
-      <b>GoHard or Go Home</b><br/>
-      <sub>concurrency with swagger</sub>
-    </td>
-    <td>
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-yaml-color-red-icon.svg" alt="yaml" width="60" height="60"/><br/>
-      <b>Brewer of YAML Elixirs</b><br/>
-      <sub>crafting configs like potions</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  📝 <b>JSON_Derulo</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="Golang--Streamline-Openmoji-Emoji.svg" alt="go" width="25" height="25"/> <b>GoHard or Go Home</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🧪 <b>Brewer of YAML Elixirs</b>
+</p>
+
 
 ---
 
