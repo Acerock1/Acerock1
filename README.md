@@ -17,8 +17,8 @@
 <h3>You can call me 😅</h3>
 
 <p>
-  📝 <b>JSON_Derulo</b> 
-  🧪 <b>Brewer of YAML Elixirs</b>
+ - 📝 <b>JSON_Derulo</b> 
+ - 🧪 <b>Brewer of YAML Elixirs</b>
 </p>
 
 ---
