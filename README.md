@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AFOLABI FAJOBI</h1>
+<h1 align="center">Hi 👋, I'm BAZIT ADEBIYI </h1>
 <h3 align="center">A certified DevOps/Site Reliability Engineer with a strong focus on automation, security, performance and scalability.</h3>
 
 <p align="center">
