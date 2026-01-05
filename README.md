@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on [various cloud-based projects.](https://github.com/Cloudhaven-IDP?tab=repositories)
 - 🌱 I’m currently learning about **GenAI && Agentic Software Develipment**
 - 💬 Ask me about **Cloud Security, Infrastructure as Code, CI/CD, Kubernetes**
-- 📫 How to reach me: **Afolabi.fajobi1@yahoo.com**
-- 📄 Learn about my experience on [LinkedIn](https://www.linkedin.com/in/afolabi-faj)
+- 📫 How to reach me: **adebiyibazit@gmail.com**
+- 📄 Learn about my experience on [LinkedIn](https://www.linkedin.com/in/bazit-adebiyi/)
 
 ---
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/afolabi-fajobi-826615203" target="blank">
+<a href="https://www.linkedin.com/in/bazit-adebiyi/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
