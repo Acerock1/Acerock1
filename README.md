@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BAZIT ADEBIYI </h1>
+<h1 align="center">Hi 👋, I'm Afolabi Fajobi </h1>
 <h3 align="center">A certified DevOps/Site Reliability Engineer with a strong focus on automation, security, performance and scalability.</h3>
 
 <p align="center">
@@ -8,12 +8,12 @@
 - 🔭 I’m currently working on [various cloud-based projects.](https://github.com/Cloudhaven-IDP?tab=repositories)
 - 🌱 I’m currently learning about **GenAI && Agentic Software Develipment**
 - 💬 Ask me about **Cloud Security, Infrastructure as Code, CI/CD, Kubernetes**
-- 📫 How to reach me: **adebiyibazit@gmail.com**
-- 📄 Learn about my experience on [LinkedIn](https://www.linkedin.com/in/bazit-adebiyi/)
+- 📫 How to reach me: **afolabi.fajobi1@yahoo.com**
+- 📄 Learn about my experience on [LinkedIn](https://www.linkedin.com/in/afolabifaj/)
 
 ---
 
-<h3 align="center"> ⚡ Fun fact: You can also call me the following 😅</h3>
+<h3 align="center"> ⚡ Fun facts: Call me any of the following 😅</h3>
 
 <div align="center">
   📝 <b>JSON_Derulo</b><br/>
@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bazit-adebiyi/" target="blank">
+<a href="https://www.linkedin.com/in/afolabifaj/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
